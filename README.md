@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Steven 👨‍💻</h1>
 <p align="center">
-  <i>Grad CS Student @UIUC</i>
+  <i>Grad CS Student [@UIUC](https://github.com/illinois)</i>
 </p>
 
 <p align="center">
