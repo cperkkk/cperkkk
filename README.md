@@ -31,10 +31,11 @@
 | SWE Intern | [Dekoruma](https://www.dekoruma.com/) | Jun 2018 – Aug 2018 |
 | SWE Intern | [GDP Labs](https://www.gdplabs.id/) | Jan 2018 – Feb 2018 |
 
-| Education | Issuer |
-| :--- | :--- |
-| **Bachelor of Computer Science** <br> `3.84/4.00 GPA` | [University of Indonesia](https://www.ui.ac.id/en/) |
-| **OSWE** <br> *(Adv. Web Attacks and Exploitation)* | [OffSec](https://www.credential.net/afc714ce-be0e-44fd-b14f-d518fd502781) |
+| Education | Issuer | Issued
+| :--- | :--- | :--- |
+| **Bachelor of Computer Science** <br> `GPA: 3.84/4.00` | [University of Indonesia](https://www.ui.ac.id/en/) | 2021
+| **OSWE** <br> `(Adv. Web Attacks and Exploitation)` | [OffSec](https://www.credential.net/afc714ce-be0e-44fd-b14f-d518fd502781) | 2023
+| **eWPTXv2** <br> `(Web Application Penetration Tester Xtreme v2)` | [eLearnSecurity](https://verified.elearnsecurity.com/certificates/ae4054c9-e25b-46fd-81ee-6cbd9b524b1b) | 2023
 
 ---
 
