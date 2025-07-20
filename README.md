@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Currently studying CS at University of Illinois Urbana-Champaign
+- 🎓 Currently studying CS at University of Illinois Urbana-Champaign with focus on AI
 - 🌏 Previously worked at Traveloka
 - 💡 Passionate about backend engineering, distributed systems, and engineering anything in general
 - 🧩 Indonesian competitive programming team — [Codeforces](https://codeforces.com/profile/cperkkk)
