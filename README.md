@@ -24,8 +24,8 @@
 | Role | Company | Duration |
 |------|---------|----------|
 | Security Software Engineer | [Traveloka](https://www.traveloka.com/) | May 2022 – June 2025 |
-| Senior ISE Engineer | [GDP Labs](https://www.gdplabs.id/) | Mar 2021 – April 2022 |
-| ISE Intern | [GDP Labs](https://www.gdplabs.id/) | Jun 2019 – Aug 2019 |
+| Senior Security Engineer | [GDP Labs](https://www.gdplabs.id/) | Mar 2021 – April 2022 |
+| Security Engineer | [GDP Labs](https://www.gdplabs.id/) | Jun 2019 – Aug 2019 |
 | SWE Intern | [Dekoruma](https://www.dekoruma.com/) | Jun 2018 – Aug 2018 |
 | SWE Intern | [GDP Labs](https://www.gdplabs.id/) | Jan 2018 – Feb 2018 |
 
