@@ -31,6 +31,9 @@
 | SWE Intern | [Dekoruma](https://www.dekoruma.com/) | Jun 2018 – Aug 2018 |
 | SWE Intern | [GDP Labs](https://www.gdplabs.id/) | Jan 2018 – Feb 2018 |
 
+---
+
+## 🎓 Education
 | Certification | Issuer | Issued
 | :--- | :--- | :--- |
 | **Bachelor of Computer Science** <br> `GPA: 3.84/4.00` | [U. of Indonesia](https://www.ui.ac.id/en/) | 2021
