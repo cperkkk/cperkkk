@@ -18,6 +18,7 @@
 - 💡 Passionate about engineering anything in general
 - 🧩 Indonesian competitive programming team — [Codeforces](https://codeforces.com/profile/cperkkk)
 - 🏴‍☠️ Back to Back Indonesian Capture The Flag Champion — [antaranews](https://en.antaranews.com/news/134818/uis-zen-team-wins-national-hacking-competition-cyber-jawara)
+- 📈 I'm a blockchain native and I do collocation HFT + Big Data as a side hustle
 
 ---
 
