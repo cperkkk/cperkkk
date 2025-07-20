@@ -33,7 +33,7 @@
 
 | Education | Issuer | 
 |-----------|--------|
-| CS (3.84/4.00) GPA | [University of Indonesia]((https://www.ui.ac.id/en/) |
+| CS GPA 3.84/4.00 | [University of Indonesia](https://www.ui.ac.id/en/) |
 | OSWE (Advanced Web Attacks and Exploitation) | [OffSec](https://www.credential.net/afc714ce-be0e-44fd-b14f-d518fd502781) |
 
 ---
