@@ -35,7 +35,7 @@
 | :--- | :--- | :--- |
 | **Bachelor of Computer Science** <br> `GPA: 3.84/4.00` | [University of Indonesia](https://www.ui.ac.id/en/) | 2021
 | **OSWE** <br> `Adv. Web Attacks and Exploitation` | [OffSec](https://www.credential.net/afc714ce-be0e-44fd-b14f-d518fd502781) | 2023
-| **eWPTXv2** <br> `Web App Pentester Xtreme v2` | [eLearnSecurity](https://verified.elearnsecurity.com/certificates/ae4054c9-e25b-46fd-81ee-6cbd9b524b1b) | 2023
+| **eWPTXv2** <br> `Web Application Penetration Tester eXtreme` | [INE](https://verified.elearnsecurity.com/certificates/ae4054c9-e25b-46fd-81ee-6cbd9b524b1b) | 2023
 
 ---
 
