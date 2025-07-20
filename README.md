@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Steven 👨‍💻</h1>
 <p align="center">
-  <i>Grad CS Student @![UIUC](https://github.com/illinois)</i>
+  <span style="display: inline-flex; align-items: center;">
+    <i>Grad CS Student @UIUC</i>
+  </span>
 </p>
 
 <p align="center">
