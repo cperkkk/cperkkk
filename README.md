@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Currently studying CS @UIUC with focus on AI
+- 🎓 Currently studying AI-CS@UIUC 
 - 🌏 Previously worked at Traveloka
 - 💡 Passionate about backend engineering, distributed systems, and engineering anything in general
 - 🧩 Indonesian competitive programming team — [Codeforces](https://codeforces.com/profile/cperkkk)
