@@ -67,7 +67,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cperkkk&theme=tokyonight" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/frameworks?username=cperkkk&theme=tokyonight" alt="Frameworks" />
 </p>
 
 ---
